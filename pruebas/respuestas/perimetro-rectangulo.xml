@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"  xmlns:tns="http://practica.soap/geometria"><soap:Body><PerimetroRectanguloResponse xmlns="http://practica.soap/geometria"><perimetro>26</perimetro></PerimetroRectanguloResponse></soap:Body></soap:Envelope>

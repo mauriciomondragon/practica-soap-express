@@ -1,0 +1,16 @@
+=== http://practica.soap/conversiones/CelsiusAFahrenheit (/soap/conversiones) ===
+HTTP 200
+<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"  xmlns:tns="http://practica.soap/conversiones"><soap:Body><CelsiusAFahrenheitResponse xmlns="http://practica.soap/conversiones"><fahrenheit>77</fahrenheit></CelsiusAFahrenheitResponse></soap:Body></soap:Envelope>
+
+=== http://practica.soap/conversiones/KilometrosAMillas (/soap/conversiones) ===
+HTTP 200
+<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"  xmlns:tns="http://practica.soap/conversiones"><soap:Body><KilometrosAMillasResponse xmlns="http://practica.soap/conversiones"><millas>6.21371</millas></KilometrosAMillasResponse></soap:Body></soap:Envelope>
+
+=== http://practica.soap/geometria/AreaRectangulo (/soap/geometria) ===
+HTTP 200
+<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"  xmlns:tns="http://practica.soap/geometria"><soap:Body><AreaRectanguloResponse xmlns="http://practica.soap/geometria"><area>40</area></AreaRectanguloResponse></soap:Body></soap:Envelope>
+
+=== http://practica.soap/geometria/PerimetroRectangulo (/soap/geometria) ===
+HTTP 200
+<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"  xmlns:tns="http://practica.soap/geometria"><soap:Body><PerimetroRectanguloResponse xmlns="http://practica.soap/geometria"><perimetro>26</perimetro></PerimetroRectanguloResponse></soap:Body></soap:Envelope>
+

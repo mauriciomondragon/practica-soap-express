@@ -1,0 +1,11 @@
+Servidor escuchando en http://localhost:3000
+[2026-10-28T01:38:09.586Z] GET /soap/conversiones?wsdl -> 200 (4.40 ms)
+[2026-10-28T01:38:09.595Z] GET /soap/geometria?wsdl -> 200 (0.91 ms)
+[2026-10-28T01:38:09.613Z] POST /soap/conversiones -> 200 (4.57 ms)
+[2026-10-28T01:38:09.622Z] POST /soap/conversiones -> 200 (1.43 ms)
+[2026-10-28T01:38:09.631Z] POST /soap/geometria -> 200 (1.54 ms)
+[2026-10-28T01:38:09.640Z] POST /soap/geometria -> 200 (1.14 ms)
+[2026-10-28T01:38:27.320Z] GET /soap/conversiones?wsdl -> 200 (0.66 ms)
+[2026-10-28T01:38:27.540Z] GET /soap/geometria?wsdl -> 200 (0.64 ms)
+[2026-10-28T01:38:31.553Z] GET /soap/conversiones?wsdl -> 200 (0.82 ms)
+[2026-10-28T01:38:31.708Z] GET /soap/geometria?wsdl -> 200 (4.63 ms)

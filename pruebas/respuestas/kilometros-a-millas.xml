@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"  xmlns:tns="http://practica.soap/conversiones"><soap:Body><KilometrosAMillasResponse xmlns="http://practica.soap/conversiones"><millas>6.21371</millas></KilometrosAMillasResponse></soap:Body></soap:Envelope>
