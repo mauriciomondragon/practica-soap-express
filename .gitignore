@@ -1,0 +1,19 @@
+# Dependencias instaladas
+node_modules/
+
+# Variables de entorno
+.env
+.env.*
+!.env.example
+
+# Archivos temporales y registros
+*.log
+logs/
+tmp/
+temp/
+*.tmp
+.DS_Store
+Thumbs.db
+npm-debug.log*
+.vscode/
+.idea/

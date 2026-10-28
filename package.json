@@ -1,0 +1,19 @@
+{
+  "name": "practica-soap-express",
+  "version": "1.0.0",
+  "description": "Servicios web SOAP con Express y WSDL (práctica de laboratorio)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "Mauricio Israel Mondragón Chávez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0",
+    "soap": "^1.14.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
